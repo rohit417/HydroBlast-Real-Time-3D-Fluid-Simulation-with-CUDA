@@ -127,21 +127,3 @@ Performance results on an NVIDIA RTX 3080:
 | 500,000   | 94.3            | 10.6  |
 | 1,000,000 | 187.8           | 5.3   |
 
-## Extending the Project
-
-Potential extensions include:
-
-* **Advanced Rendering**: Real-time visualization with OpenGL or Vulkan
-* **Additional Physics**: Rigid bodies, external forces, or multi-phase fluids
-* **Optimizations**: Improved spatial structures, memory patterns
-* **Interactive Features**: Real-time parameter tuning and interactive fluid control
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-## Acknowledgements
-
-* Based on \[Müller et al., 2003] *"Particle-Based Fluid Simulation for Interactive Applications"*
-* Developed as a course project for a GPU Programming / High Performance Computing course
-
